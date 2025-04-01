@@ -1,0 +1,36 @@
+p.borda{
+    border-style: solid;
+    border-color: blue;
+    border-width: 5px;
+}
+
+p.margem{
+    margin: 100px;
+    border-style: dashed;
+}
+
+p.propriedade{
+    margin: 25px;
+    border-style: dotted;
+    padding: 20px;
+}
+
+p.contorno{
+    outline-style: double;
+    outline-color: red;
+    margin: 40px;
+    border-style: solid;
+    padding: 15px;
+    border-color: black;
+}
+
+img.imagem{
+    width: 100%;
+    height: auto;
+    border-style: dashed;
+    border-color: black;
+}
+
+.center{
+    text-align: center;
+}
